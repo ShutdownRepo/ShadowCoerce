@@ -1,7 +1,7 @@
 # ShadowCoerce
 MS-FSRVP coercion abuse PoC
 
-Credits: Gilles LIONEL (a.k.a. Topotam)
+Credits: Lionel GILLES (a.k.a. Topotam)
 Source: https://twitter.com/topotam77/status/1475701014204461056
 
 Explanation: https://www.thehacker.recipes/ad/movement/mitm-and-coerced-authentications/ms-fsrvp
