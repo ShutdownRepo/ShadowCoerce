@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # Author: Charlie BROMBERG aka Shutdown (@_nwodtuhs)
-# Source : GILLES Lionel aka topotam (@topotam77) https://twitter.com/topotam77/status/1475701014204461056
+# Source : Lionel GILLES aka topotam (@topotam77) https://twitter.com/topotam77/status/1475701014204461056
 
 import sys
 import argparse
